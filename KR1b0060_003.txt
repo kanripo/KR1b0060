@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書義矜式
-#+DATE: 2015-09-23 09:36:23
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:04:07.894023
+#+PROPERTY: ID KR1b0060
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0060_WYG_003-1a>¶
 欽定四庫全書¶
 　書義矜式卷三¶
@@ -812,4 +814,3 @@
 　道益深而望説益切然木從䋲則正后從諫則聖𫝊¶
 　説固嘗以聖期其君矣良臣惟聖髙宗終以聖責諸¶
 　臣焉君臣之責望如此其足以成中興之治也宜哉¶
-
